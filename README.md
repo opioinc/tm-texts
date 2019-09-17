@@ -11,6 +11,7 @@ pyenv install 3.7.2
 ```
 brew install pipenv
 ```
+Windows user? Hey, we all love the new woke MS. I even did a whole bunch of C# once, it's all very amazing. I didn't have time to add instructions not having a windows box, feel free to raise a PR. Soz. 😍
 
 ### Repo Setup + package installation
 ```
