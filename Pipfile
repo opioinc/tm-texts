@@ -10,6 +10,12 @@ jupyterlab = "*"
 jellyfish = "*"
 pandas = "*"
 sklearn = "*"
+spacy = "*"
+shap = "*"
+strsim = "*"
+metaphone = "*"
+fuzzywuzzy = "*"
+python-levenshtein = "*"
 
 [requires]
 python_version = "3.7.2"
