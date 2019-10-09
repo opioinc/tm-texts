@@ -1,6 +1,8 @@
 # tm-texts
 Sample repo to explore feature building for trademark comparison. 
 
+You can access a sandbox version of this notebook here: https://colab.research.google.com/drive/1IbkCB67svgTVMnnYdHf0FWYyrVvWXzGC?usp=sharing#scrollTo=e9eXZqVM8Iuq&forceEdit=true&sandboxMode=true
+
 ## Python Setup
 ```
 brew install pyenv
